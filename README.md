@@ -32,7 +32,7 @@
 
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" width="60" height="40"/> </a>
   
-  /p>
+  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moccolfc&show_icons=true&locale=en&layout=compact" alt="moccolfc" /></p>
 
