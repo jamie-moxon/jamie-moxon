@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Azure Architecture, Microsoft 365 and all things cloud**
 
-- 📝 I regularly write articles on [Microsoft 365, Collaboration and migration](Microsoft 365, Collaboration and migration)
-
 - 💬 Ask me about **Microsoft 365, Cloud migration and all things Azure**
 
 - 📫 How to reach me **j.moxon@hotmail.com**
