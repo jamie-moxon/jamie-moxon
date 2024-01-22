@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **j.moxon@hotmail.com**
 
-- 📄 Know about my experiences [My CV](https://www.jamiemoxon.tech/files/resume.pdf)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moccolfc&label=Profile%20views&color=0e75b6&style=flat" alt="moccolfc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moccolfc" alt="moccolfc" /></a> </p>
