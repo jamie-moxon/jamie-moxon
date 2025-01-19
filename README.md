@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamie</h1>
-<h3 align="center">A Cloud Engineer from Merseyside, United Kingdom</h3>
+<h3 align="center">I am a Azure Cloud Consultant from Merseyside, United Kingdom</h3>
 
 
 
